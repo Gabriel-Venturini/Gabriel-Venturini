@@ -8,19 +8,19 @@
 
 ###
 
-<h4 align="left">About me</h4>
+<h4 align="center">About me</h4>
 
 ###
 
-<p align="left">🎯Graduating in System Development and Analysis in Brazil🎯<br><br>💻I am currently learning Java, Docker, Jira and DevOps principles💻<br><br>📝Aspiring to be a QA or DevOps someday📝</p>
+<p align="center">🎯Graduating in System Development and Analysis in Brazil🎯<br><br>💻I am currently learning Java, Docker, Jira and DevOps principles💻<br><br>📝Aspiring to be a QA or DevOps someday📝</p>
 
 ###
 
-<h4 align="left">I code with</h4>
+<h4 align="center">I code with</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
