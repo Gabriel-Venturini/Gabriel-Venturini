@@ -36,6 +36,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gabriel-Venturini/Gabriel-Venturini/output/snake.svg" alt="Snake animation" />
-
 ###
